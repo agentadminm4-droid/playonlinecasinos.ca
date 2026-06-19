@@ -6,37 +6,45 @@
     <description>Ontario live casino and slots news, guides, and analysis.</description>
     <language>en-CA</language>
     <atom:link href="https://playcanadiancasinos.ca/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How Live Dealer Games Work in Ontario</title>
-      <link>https://playcanadiancasinos.ca/blog/how-live-dealer-games-work-ontario/</link>
-      <guid isPermaLink="true">https://playcanadiancasinos.ca/blog/how-live-dealer-games-work-ontario/</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Real human dealers, real cards, real-time action. Here's how Ontario's live dealer casinos actually work under the hood.</description>
-      <category>Live Casino Guide</category>
-    </item>
-    <item>
-      <title>Best Live Blackjack Strategies for Ontario Players</title>
-      <link>https://playcanadiancasinos.ca/blog/best-live-blackjack-strategies-ontario/</link>
-      <guid isPermaLink="true">https://playcanadiancasinos.ca/blog/best-live-blackjack-strategies-ontario/</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Blackjack has the lowest house edge in the casino — but only if you play with perfect basic strategy. Here's how to do it at Ontario live casinos.</description>
-      <category>Strategy Guide</category>
-    </item>
-    <item>
-      <title>RTP Guide: What Ontario Slot Players Need to Know</title>
-      <link>https://playcanadiancasinos.ca/blog/rtp-guide-ontario-slot-players/</link>
-      <guid isPermaLink="true">https://playcanadiancasinos.ca/blog/rtp-guide-ontario-slot-players/</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Every slot has an RTP. Most players ignore it. Here's why you shouldn't — and the highest-RTP slots in Ontario right now.</description>
-      <category>Slot Guide</category>
-    </item>
-    <item>
-      <title>Evolution vs Pragmatic Play Live: Which Is Better in Ontario?</title>
-      <link>https://playcanadiancasinos.ca/blog/evolution-vs-pragmatic-play-live-ontario/</link>
-      <guid isPermaLink="true">https://playcanadiancasinos.ca/blog/evolution-vs-pragmatic-play-live-ontario/</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Two providers dominate Ontario's live casino market. Here's how they stack up on game variety, streaming quality, and the overall experience.</description>
-      <category>Comparison</category>
-    </item>
-  </channel>
+          <item>
+    <title>163 New Online Slots Released This Week — Including Pragmatic Play's The Dog House Megaways 1000</title>
+    <link>https://playcanadiancasinos.ca/blog/163-new-slots-released-week-june-17-2026/</link>
+    <guid isPermaLink="true">https://playcanadiancasinos.ca/blog/163-new-slots-released-week-june-17-2026/</guid>
+    <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+    <description>A record 163 new online slot games hit the market this week. Highlights include Pragmatic Play's The Dog House Megaways 1000, Play'n GO's Viking Runecraft 1000, and ICONIC21's AI-powered iDealer Blackjack.</description>
+    <category>🎰 Slot Releases</category>
+  </item>
+  <item>
+    <title>How Live Dealer Games Work in Ontario</title>
+    <link>https://playcanadiancasinos.ca/blog/how-live-dealer-games-work-ontario/</link>
+    <guid isPermaLink="true">https://playcanadiancasinos.ca/blog/how-live-dealer-games-work-ontario/</guid>
+    <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    <description>A complete guide to live dealer casinos in Ontario — how the technology works, the providers, the rules, and where to play.</description>
+    <category>Live Casino Guide</category>
+  </item>
+  <item>
+    <title>Best Live Blackjack Strategies for Ontario Players</title>
+    <link>https://playcanadiancasinos.ca/blog/best-live-blackjack-strategies-ontario/</link>
+    <guid isPermaLink="true">https://playcanadiancasinos.ca/blog/best-live-blackjack-strategies-ontario/</guid>
+    <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+    <description>How to play live blackjack with a 0.5% house edge. Basic strategy, side bets to avoid, and bankroll management for Ontario players.</description>
+    <category>Strategy Guide</category>
+  </item>
+  <item>
+    <title>RTP Guide: What Ontario Slot Players Need to Know</title>
+    <link>https://playcanadiancasinos.ca/blog/rtp-guide-ontario-slot-players/</link>
+    <guid isPermaLink="true">https://playcanadiancasinos.ca/blog/rtp-guide-ontario-slot-players/</guid>
+    <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+    <description>Return to Player (RTP) is the single most important number in online slots. Here's what Ontario players need to know.</description>
+    <category>Slot Guide</category>
+  </item>
+  <item>
+    <title>Evolution vs Pragmatic Play Live: Which Is Better in Ontario?</title>
+    <link>https://playcanadiancasinos.ca/blog/evolution-vs-pragmatic-play-live-ontario/</link>
+    <guid isPermaLink="true">https://playcanadiancasinos.ca/blog/evolution-vs-pragmatic-play-live-ontario/</guid>
+    <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    <description>A detailed comparison of Evolution and Pragmatic Play Live in Ontario — game variety, streaming quality, and where each shines.</description>
+    <category>Comparison</category>
+  </item>
+</channel>
 </rss>
