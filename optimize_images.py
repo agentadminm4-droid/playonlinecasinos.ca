@@ -12,7 +12,7 @@ import os
 from pathlib import Path
 from PIL import Image
 
-ROOT = Path(os.path.expanduser("~/Desktop/playcanadiancasinos"))
+ROOT = Path(os.path.expanduser("~/Desktop/playonlinecasinos"))
 ART = ROOT / "images" / "art"
 OG = ROOT / "images" / "og"
 

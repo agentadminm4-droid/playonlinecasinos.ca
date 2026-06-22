@@ -3,4 +3,4 @@ Allow: /
 Disallow: /js/
 Disallow: /css/
 
-Sitemap: https://playcanadiancasinos.ca/sitemap.xml
+Sitemap: https://playonlinecasinos.ca/sitemap.xml

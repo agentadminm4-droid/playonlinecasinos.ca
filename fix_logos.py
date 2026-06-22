@@ -12,7 +12,7 @@ import urllib.request
 import subprocess
 from pathlib import Path
 
-ROOT = Path(os.path.expanduser("~/Desktop/playcanadiancasinos"))
+ROOT = Path(os.path.expanduser("~/Desktop/playonlinecasinos"))
 LOGOS = ROOT / "images" / "logos"
 LOGOS.mkdir(parents=True, exist_ok=True)
 

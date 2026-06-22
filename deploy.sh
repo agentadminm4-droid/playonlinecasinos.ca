@@ -1,11 +1,11 @@
 #!/bin/bash
 # Sync source -> deploy dir (additive, idempotent), then commit + push.
-# Use after running the generate_*.py scripts in ~/Desktop/playcanadiancasinos/.
+# Use after running the generate_*.py scripts in ~/Desktop/playonlinecasinos/.
 
 set -e
 
-SOURCE="$HOME/Desktop/playcanadiancasinos"
-DEPLOY="$HOME/Desktop/playcanadiancasinos-deploy"
+SOURCE="$HOME/Desktop/playonlinecasinos"
+DEPLOY="$HOME/Desktop/playonlinecasinos-deploy"
 TOKEN=$(cat /tmp/hermes_gh_token 2>/dev/null)
 
 if [ -z "$TOKEN" ]; then
@@ -35,6 +35,6 @@ fi
 
 git add -A
 git commit -m "content: auto-deploy $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-git push "https://agentadminm4-droid:${TOKEN}@github.com/agentadminm4-droid/playcanadiancasinos.ca.git" main
+git push "https://agentadminm4-droid:${TOKEN}@github.com/agentadminm4-droid/playonlinecasinos.ca.git" main
 
 echo "Deployed successfully"

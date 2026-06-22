@@ -1,4 +1,4 @@
-# PlayCanadianCasinos.ca
+# PlayOnlineCasinos.ca
 
 Ontario's guide to live dealer games, slots, and table games at AGCO-licensed casinos.
 
@@ -28,11 +28,11 @@ python3 -m http.server 8785
 ```bash
 # 1. Sync source -> deploy dir (rsync is additive, no --delete)
 rsync -a --exclude='generate_*.py' --exclude='__pycache__' \
-  ~/Desktop/playcanadiancasinos/ \
-  ~/Desktop/playcanadiancasinos-deploy/
+  ~/Desktop/playonlinecasinos/ \
+  ~/Desktop/playonlinecasinos-deploy/
 
 # 2. Commit and push
-cd ~/Desktop/playcanadiancasinos-deploy
+cd ~/Desktop/playonlinecasinos-deploy
 git add -A
 git commit -m "content: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
 git push origin main
@@ -41,7 +41,7 @@ git push origin main
 ## Directory structure
 
 ```
-playcanadiancasinos/
+playonlinecasinos/
 ├── index.html              # Homepage
 ├── live-dealer/            # Live casino hub
 ├── slots/                  # Slots hub
