@@ -946,12 +946,21 @@ main {
 /* Logo sizing in casino cards */
 .card-image img[alt*="Casino"],
 .card-image img[alt*="Jackpot"],
-.card-image img[alt*="Spin"] {
+.card-image img[alt*="Spin"],
+.card-image img[alt*="Vegas"],
+.card-image img[alt*="Fortune"] {
   object-fit: contain;
   width: auto;
   height: auto;
-  max-width: calc(100% - 3rem);
-  max-height: 70%;
+  max-width: 60%;
+  max-height: 60%;
   padding: 1.5rem;
-  background: var(--surface-elevated);
+  background: transparent;
+  display: block;
+  margin: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  filter: brightness(0) invert(1);
 }
